@@ -1,0 +1,8 @@
+Descriptive Statistics:
+Count: 3000
+Mean: 1.8790659927977473e+20
+Median: 1.88008049965543e+20
+Mode: 1.27620004531949e+20
+Standard Deviation: 1.0739995165766761e+20
+Variance: 1.1534749616069338e+40
+Tiempo transcurrido: 0.23320889472961426 segundos
